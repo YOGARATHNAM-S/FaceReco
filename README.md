@@ -22,7 +22,7 @@ flask,pip,opencv,joblib..
 
 Below is the flow diagram illustrating the system's operation:
 
-![Face Recognition Flow Diagram](FaceReco/FaceReco/FlowDiagram.png)
+![Face Recognition Flow Diagram](FaceReco/FlowDiagram.png)
 
 Usage
 
