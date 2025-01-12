@@ -16,6 +16,13 @@ flask,pip,opencv,joblib..
 
     Download the pre-trained models:
     (Include instructions on where to download the models if needed.)
+    # Face Recognition Flow Diagram
+
+## Flow Diagram
+
+Below is the flow diagram illustrating the system's operation:
+
+![Face Recognition Flow Diagram](FaceReco/FaceReco/FlowDiagram.png)
 
 Usage
 
